@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning React, JavaScript, and Backend technologies.
 - 👯 I’m looking to collaborate on Open Source projects.
 - 💬 Ask me about Web Development & Software Engineering.
-- 📬 How to reach me: [LinkedIn](https://linkedin.com/in/divya-narwade-b62193441)
+- 📬 How to reach me: [LinkedIn](https://www.linkedin.com/in/divya-narwade-b62193441)
 ---
 
 ### 🛠️ Tech Stack & Tools
