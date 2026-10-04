@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Divyan 👋
 
-<!--
-**Divyan1111/Divyan1111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me
+- 🔭 I’m currently working on exciting Web Development projects.
+- 🌱 I’m currently learning React, JavaScript, and Backend technologies.
+- 👯 I’m looking to collaborate on Open Source projects.
+- 💬 Ask me about Web Development & Software Engineering.
+- 📬 How to reach me: [LinkedIn](https://linkedin.com/in/divya-narwade-b62193441)
+---
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack & Tools
+- **Languages:** JavaScript, HTML5, CSS3, Python
+- **Frameworks & Libraries:** React, Node.js, Express
+- **Tools & Platforms:** Git, GitHub, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 📊 GitHub Stats
+
+![Divyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Divyan1111&show_icons=true&theme=radial)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Divyan1111&layout=compact&theme=radial)
